@@ -5,7 +5,22 @@ body {
   text-align: center;
   font-weight: normal;
 }
-.link {
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+h3 {
   color: Aquamarine;
   font-size: 16px;
+}
+p {
+  font-size: 21px;
+  color: gray;
+}
+.footer {
+  color: gray;
+  text-align: right;
 }
