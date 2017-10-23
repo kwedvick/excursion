@@ -1,0 +1,11 @@
+body {
+  font-family: Verdana;
+  color: white;
+  background-color: black;
+  text-align: center;
+  font-weight: normal;
+}
+.link {
+  color: Aquamarine;
+  font-size: 16px;
+}
